@@ -45,3 +45,5 @@ jobs:
         subject: Github Actions job result
         # Required recipients' addresses:
         to: bharathkumardoodle@gmail.com
+        # Required sender full name (address can be skipped):
+        from: bharathkumardoodle@gamil.com
