@@ -47,3 +47,5 @@ jobs:
         to: bharathkumardoodle@gmail.com
         # Required sender full name (address can be skipped):
         from: bharathkumardoodle@gmail.com
+        # Optional whether this connection use TLS (default is true if server_port is 465)
+        secure: true
